@@ -1,2 +1,2 @@
-# Exercicio-HTMl-Rocketseat
- Exercício de html, praticando alguns conteúdos aprendidos.
+# Exercicio-HTML-Rocketseat
+ Exercício de HTML, praticando alguns conteúdos aprendidos.
